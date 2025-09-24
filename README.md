@@ -1,7 +1,9 @@
 Simple Project Overview:
+
 Event Management MAX FIT is a Salesforce-based application designed to streamline the management of events. It helps organize event details, track attendees and speakers, verify locations, and manage event lifecycle efficiently. The application supports both virtual and in-person events, with automation for notifications and robust security to control access based on user roles.
 
 Key Features:
+
 Creation and management of events with status, types, and scheduling
 
 Attendee and speaker record management with duplicate prevention
